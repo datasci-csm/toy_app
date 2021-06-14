@@ -3,7 +3,7 @@
 {
   "scripts": {
     "start": "ruby runserver"
-  }
+  },
   "name": "toy-app",
   "private": true,
   "dependencies": {
